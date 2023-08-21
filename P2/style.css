@@ -1,0 +1,40 @@
+.title {
+    background-color: #d7d0d0bb;
+    overflow: hidden;
+    width: 385px;
+    margin: auto;
+    padding: 10px;
+  }
+
+  .title a {
+    float: none;
+    color: black;
+    text-align: center;
+    border-right:1px solid #ede9e9bb;
+    text-decoration: none;
+    font-size: 20px;
+   
+  }
+
+  .logo {
+    background-color: #ede9e9bb;
+  }
+
+  .left { 
+    width: 30%;
+    float:left
+  }
+
+  .right {
+    width: 70%;
+    float:left
+
+  }
+
+  .content {
+    padding: 10px;
+  }
+
+  .footer{
+    width: 100%;
+  }
